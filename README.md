@@ -1,4 +1,5 @@
 Criar um arquivo .env e inserir o seguinte bloco de texto: 
+
   POSTGRES_HOST=localhost
   POSTGRES_DB=trancity-db
   POSTGRES_USERNAME=postgres
